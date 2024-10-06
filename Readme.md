@@ -2,7 +2,7 @@
 
 **Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).**
 
-**This project has a [Code of Conduct][].**
+**This project has been created by Ravi prakash.**
 
 ## Table of contents
 
